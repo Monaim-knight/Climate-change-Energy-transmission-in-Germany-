@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="360" viewBox="0 0 720 360">
+<style>
+  .axis { stroke:#333; stroke-width:1; fill:none; }
+  .grid { stroke:#ddd; stroke-width:1; fill:none; }
+  .label { font-family: Arial, sans-serif; font-size:12px; fill:#111; }
+  .title { font-family: Arial, sans-serif; font-size:16px; font-weight:bold; fill:#111; }
+  .tick { font-family: Arial, sans-serif; font-size:10px; fill:#333; }
+  .bar { fill:#4C78A8; }
+  .line { stroke:#E45756; stroke-width:2; fill:none; }
+  .cell { stroke:#fff; stroke-width:1; }
+  .legend { font-family: Arial, sans-serif; font-size:11px; fill:#111; }
+  .note { font-family: Arial, sans-serif; font-size:10px; fill:#666; }
+  .country { font-family: Arial, sans-serif; font-size:9px; fill:#111; }
+</style>
+<rect x='0' y='0' width='720' height='360' fill='#ffffff' /><line class='axis' x1='60' y1='300' x2='660' y2='300' /><line class='axis' x1='60' y1='300' x2='60' y2='60' /><line class='grid' x1='60.0' y1='300' x2='60.0' y2='60' /><text class='tick' x='60.0' y='314' text-anchor='middle'>2013</text><line class='grid' x1='180.0' y1='300' x2='180.0' y2='60' /><text class='tick' x='180.0' y='314' text-anchor='middle'>2015</text><line class='grid' x1='300.0' y1='300' x2='300.0' y2='60' /><text class='tick' x='300.0' y='314' text-anchor='middle'>2017</text><line class='grid' x1='420.0' y1='300' x2='420.0' y2='60' /><text class='tick' x='420.0' y='314' text-anchor='middle'>2019</text><line class='grid' x1='540.0' y1='300' x2='540.0' y2='60' /><text class='tick' x='540.0' y='314' text-anchor='middle'>2021</text><line class='grid' x1='660.0' y1='300' x2='660.0' y2='60' /><text class='tick' x='660.0' y='314' text-anchor='middle'>2023</text><line class='grid' x1='60' y1='300.0' x2='660' y2='300.0' /><text class='tick' x='54' y='304.0' text-anchor='end'>825</text><line class='grid' x1='60' y1='240.0' x2='660' y2='240.0' /><text class='tick' x='54' y='244.0' text-anchor='end'>868</text><line class='grid' x1='60' y1='180.0' x2='660' y2='180.0' /><text class='tick' x='54' y='184.0' text-anchor='end'>910</text><line class='grid' x1='60' y1='120.0' x2='660' y2='120.0' /><text class='tick' x='54' y='124.0' text-anchor='end'>952</text><line class='grid' x1='60' y1='60.0' x2='660' y2='60.0' /><text class='tick' x='54' y='64.0' text-anchor='end'>995</text><path class='line' d='M 60.0 300.0 L 120.0 259.1 L 180.0 129.2 L 240.0 76.9 L 300.0 60.0 L 360.0 67.1 L 420.0 74.1 L 480.0 82.6 L 540.0 82.6 L 600.0 82.6 L 660.0 91.1' /><text class='title' x='360.0' y='24' text-anchor='middle'>Germany GRTL_NR over time</text></svg>
