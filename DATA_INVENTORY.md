@@ -1,5 +1,7 @@
 # Data Inventory (Phase 3)
 
+Variable definitions in this note are withdrawn. Use `CODEBOOK.md`. Destatis, SOEP, Bundesnetzagentur, dena, and UBA are not part of the approved study. The study uses Eurostat `nrg_ind_market` plus, at the next step, final natural-gas consumption and population.
+
 ## Eurostat
 - Source: Eurostat (energy market indicators)
 - Raw: `estat_nrg_ind_market.tsv`

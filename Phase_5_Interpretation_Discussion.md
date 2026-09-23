@@ -1,3 +1,5 @@
+> Withdrawn. This discussion does not match the series in the data. The manuscript is `paper/main.tex`.
+
 # Phase 5: Interpretation & Discussion
 ## Bridging Divides: Social Cohesion in the Face of Climate Change and Energy Transition in Germany
 

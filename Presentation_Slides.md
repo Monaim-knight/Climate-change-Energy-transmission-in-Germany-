@@ -1,3 +1,5 @@
+> Withdrawn. This deck used incorrect variable labels. The manuscript is `paper/main.tex`.
+
 # Bridging Divides: Social Cohesion and Energy Transition — 10-Slide Deck
 
 1) Title & Team

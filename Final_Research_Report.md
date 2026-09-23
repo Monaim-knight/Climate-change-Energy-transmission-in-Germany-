@@ -1,3 +1,5 @@
+> Withdrawn. This draft mislabeled the Eurostat series and drew conclusions the data do not support. The manuscript is `paper/main.tex`.
+
 # Bridging Divides: Social Cohesion in the Face of Climate Change and Energy Transition in Germany
 
 ## Executive Summary
