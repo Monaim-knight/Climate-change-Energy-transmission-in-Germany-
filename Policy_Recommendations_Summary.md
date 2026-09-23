@@ -1,3 +1,5 @@
+> Withdrawn. These recommendations do not follow from the data. The manuscript is `paper/main.tex`, and it does not make policy claims.
+
 # Policy Recommendations Summary
 ## Bridging Divides: Social Cohesion in the Face of Climate Change and Energy Transition in Germany
 

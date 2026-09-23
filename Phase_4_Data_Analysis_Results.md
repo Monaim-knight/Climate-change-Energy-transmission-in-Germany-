@@ -1,3 +1,5 @@
+> Withdrawn. These results used incorrect variable labels. The manuscript is `paper/main.tex`. Computed results are in `output/RESULTS.md`.
+
 # Phase 4: Data Analysis Results
 ## Bridging Divides: Social Cohesion in the Face of Climate Change and Energy Transition in Germany
 
